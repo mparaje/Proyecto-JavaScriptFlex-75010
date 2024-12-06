@@ -1,4 +1,4 @@
-# 1era Entrega JavaScript-Flex Comision n°75010
+# 2da Entrega JavaScript-Flex Comision n°75010
 
 <p align="center">
   <img src="./assets/logo.png" alt="Birdies Clothes Logo" width="200"/>
