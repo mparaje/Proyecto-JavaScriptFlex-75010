@@ -1,7 +1,7 @@
 # 2da Entrega JavaScript-Flex Comision n°75010
 
 <p align="center">
-  <img src="./assets/logo.png" alt="Birdies Clothes Logo" width="200"/>
+  <img src="assets/Logo 2.webp" alt="Birdies Clothes Logo" width="200"/>
 </p>
 
 ## Descripción del Proyecto
