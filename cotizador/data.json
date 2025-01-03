@@ -1,0 +1,114 @@
+{
+    "productos":[
+      {
+        "id": 1,
+        "costoManoDeObra": 25000,
+        "costoDisenio": 25000,
+        "costoMaquinaria": 10000,
+        "category": "Inmobiliaria",
+        "title": "Silla"
+      },
+      {
+        "id": 2,
+        "costoManoDeObra": 25000,
+        "costoDisenio": 25000,
+        "costoMaquinaria": 15000,
+        "category": "Inmobiliaria",
+        "title": "Escritorio"
+      },
+      {
+        "id": 3,
+        "costoManoDeObra": 10000,
+        "costoDisenio": 10000,
+        "costoMaquinaria": 5000,
+        "category": "Accesorio",
+        "title": "Soporte de notebook"
+      },
+      {
+        "id": 4,
+        "costoManoDeObra": 5000,
+        "costoDisenio": 10000,
+        "costoMaquinaria": 5000,
+        "category": "Accesorio",
+        "title": "Llavero"
+      },
+      {
+        "id": 5,
+        "costoManoDeObra": 15000,
+        "costoDisenio": 20000,
+        "costoMaquinaria": 20000,
+        "category": "Perfileria",
+        "title": "Carteles"
+      },
+      {
+        "id": 6,
+        "costoManoDeObra": 15000,
+        "costoDisenio": 20000,
+        "costoMaquinaria": 20000,
+        "category": "Perfileria",
+        "title": "Soportes"
+      },
+      {
+        "id": 7,
+        "costoManoDeObra": 25000,
+        "costoDisenio": 25000,
+        "costoMaquinaria": 15000,
+        "category": "Inmobiliaria",
+        "title": "Mesa"
+      }
+    ],
+    "materiales":[
+      {
+        "id": 1,
+        "title": "Madera",
+        "costoPorMetroCubico": 15000
+      },
+      {
+        "id": 2,
+        "title": "Plastico",
+        "costoPorMetroCubico": 20000
+      },
+      {
+        "id": 3,
+        "title": "Aluminio",
+        "costoPorMetroCubico": 10000
+      },
+      {
+        "id": 4,
+        "title": "Hormigon - Concreto",
+        "costoPorMetroCubico": 25000
+      }
+    ],
+    "estilos":[
+      {
+        "id": 1,
+        "title": "A",
+        "costoEstilo": 10000
+      },
+      {
+        "id": 2,
+        "title": "B",
+        "costoEstilo": 20000
+      },
+      {
+        "id": 3,
+        "title": "C",
+        "costoEstilo": 30000
+      },
+      {
+        "id": 4,
+        "title": "D",
+        "costoEstilo": 40000
+      },
+      {
+        "id": 5,
+        "title": "E",
+        "costoEstilo": 50000
+      },
+      {
+        "id": 6,
+        "title": "F",
+        "costoEstilo": 60000
+      }
+    ]
+  }
